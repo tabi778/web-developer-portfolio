@@ -108,10 +108,14 @@ main {
 
 .about-info-container{
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
+  gap: 8px;
+
+
 }
 
 .about-info{
+ 
   text-align: center;
-
+  
 }
